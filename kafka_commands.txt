@@ -1,8 +1,3 @@
-cd /Users/harshayarravarapu/Documents/projects
-ssh -i "ml_nv_key.pem" ubuntu@ec2-3-84-209-60.compute-1.amazonaws.com
-
-
-
 wget https://archive.apache.org/dist/kafka/3.3.1/kafka-3.3.1-src.tgz
 tar -xvf kafka-3.3.1-src.tgz 
 
